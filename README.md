@@ -1,7 +1,7 @@
 # Angular Demo App
 
-Demo Project part of [Angular Academy Workshop](https://angular.ac).  
-Angular 8 demo project for Code Camp SDQ, generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+Demo Project part of [Angular Academy Workshop](https://angular.ac){target="_blank"}.  
+Angular 8 demo project for Code Camp SDQ, generated with Angular CLI version 8.0.1.
 
 ## Installation
 
