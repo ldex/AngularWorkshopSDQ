@@ -1,6 +1,6 @@
 # Angular Demo App
 
-Demo Project part of [Angular Academy Workshop](https://angular.ac){target="_blank"}.  
+Demo Project part of <a href="https://angular.ac" target="_blank">Angular Academy Workshop</a>.  
 Angular 8 demo project for Code Camp SDQ, generated with Angular CLI version 8.0.1.
 
 ## Installation
