@@ -10,4 +10,5 @@ Run `npm install`
 
 ## Try it!
 
-Run `ng s -o` for a dev server. The app is running on `http://localhost:10001/` and will automatically reload if you change any of the source files.
+Run `ng s -o` for a dev server.  
+The app is running on `http://localhost:10001/` and will automatically reload if you change any of the source files.
